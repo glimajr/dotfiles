@@ -21,3 +21,7 @@ colorscheme desert
 
 set number
 set ruler
+
+" Turn off the menu and tool bar
+set guioptions-=m
+set guioptions-=T
